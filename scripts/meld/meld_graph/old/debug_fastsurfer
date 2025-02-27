@@ -1,0 +1,4 @@
+python /app/scripts/new_patient_pipeline/new_pt_pipeline.py \
+    -id MELD_H68_3T_FCD_00EP000692-20220609 \
+    --fastsurfer \
+    --debug_mode
